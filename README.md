@@ -35,8 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theekshana-jayalath&show_icons=true&locale=en&theme=chartreuse-dark" alt="theekshana-jayalath" /></p>
 <hr>
 
-<img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theekshana-jayalath&theme=juicyfresh&no-bg=true" alt="theekshana-jayalath" />
-</a> </p>
 
