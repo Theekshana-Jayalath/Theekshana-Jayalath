@@ -8,7 +8,7 @@
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About Me
 <p align="left"></p></h3>
 
-- 🔭 I’m currently working on [FabricFlow-backend](https://github.com/Theekshana-Jayalath/FabricFlow-backend)
+- 🔭 I’m currently working on [FabricFlow-backend](https://github.com/Theekshana-Jayalath/FabricFlow-frontend)
 - 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **theekshanapabodi2001@gmail.com**
