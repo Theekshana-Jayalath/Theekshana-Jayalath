@@ -8,7 +8,7 @@
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About Me
 <p align="left"></p></h3>
 
-- 🔭 I’m currently working on [Curvo- Currency Converter](https://github.com/Theekshana-Jayalath/curvo-Currency_Converter)
+- 🔭 I’m currently working on [Curvo- Currency Converter](https://github.com/Theekshana-Jayalath/curvo-Currency_Converter-/)
 - 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **theekshanapabodi2001@gmail.com**
